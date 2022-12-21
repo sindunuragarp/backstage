@@ -194,5 +194,11 @@
     "@backstage/plugin-vault-backend": "0.2.5",
     "@backstage/plugin-xcmetrics": "0.2.32"
   },
-  "changesets": []
+  "changesets": [
+    "create-app-1671620887",
+    "eight-dragons-accept",
+    "fluffy-forks-happen",
+    "renovate-968149a",
+    "tasty-impalas-mix"
+  ]
 }

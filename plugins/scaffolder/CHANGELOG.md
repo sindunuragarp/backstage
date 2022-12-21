@@ -1,5 +1,11 @@
 # @backstage/plugin-scaffolder
 
+## 1.9.1-next.0
+
+### Patch Changes
+
+- 3c112f6967: rollback `@rjsf/validator-ajv8` to `@rjsf/validator-v6`
+
 ## 1.9.0
 
 ### Minor Changes
